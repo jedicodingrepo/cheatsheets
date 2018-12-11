@@ -18,7 +18,7 @@
 | **shift+ctrl+w**              | Close tab                                                                          |
 | **shift+ctrl+o**              | Split horizontal tab                                                               |
 | **shift+ctrl+e**              | Split vertical tab                                                                 |
-| **shift+ctrl+e**              | Split vertical tab                                                                 |
+| **shift+ctrl+p**              | Change tab                                                                |
 
 
 ## Docker
